@@ -2,6 +2,7 @@
 
 ## Background
 
+
 ## Webots Controller and World Files
 You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes support for 4 motors and 16 sonar sensors(8 forward facing, 8 rear facing). In out world files, we've added the following sensors:
 
@@ -30,11 +31,18 @@ Once functional, your goal is to implement one of the following extensions. Thes
 * And any other extensions you would like to implement!
 
 ## Resources
-Webots Tutorials:
-
-Webots Documentation:
+* [Webots Tutorials](https://cyberbotics.com/doc/guide/tutorials)
+* [Webots Documentation](https://cyberbotics.com/doc/reference/nodes-and-api-functions)
+* [Intro Webots](https://cyberbotics.com/doc/guide/tutorial-1-your-first-simulation-in-webots)
+* [Adept Pioneer3-AT](https://cyberbotics.com/doc/guide/pioneer-3at)
+* [More about Controllers](https://cyberbotics.com/doc/guide/tutorial-4-more-about-controllers)
+* [Motor](https://www.cyberbotics.com/doc/reference/motor)
+* [Camera](https://www.cyberbotics.com/doc/reference/camera)
+* [Lidar](https://www.cyberbotics.com/doc/reference/lidar)
+* [Inertial Unit Sensors ](https://cyberbotics.com/doc/reference/inertialunit)
 
 
 ## How to use the Manual Controller
 
 ## Submission
+Fork this git repository. Once you have added all your code, and your project is complete, send us a link to your forked repository. 
