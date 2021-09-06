@@ -14,7 +14,9 @@ You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes supp
 You will also be given 2 world files each containing a track. Each track consists of cones, where the yellow cones denote the outside of the track and the blue cones denote the inside of the track. 
 
 * NMP_Simple.wbt
+![nmp_simple](/nmp_simple.png)
 * NMP.wbt
+![nmp](/nmp.png)
 
 ## Task
 In teams of 3, program the Adept Pioneer 3-AT to autonomously navigate itself around the track for at least one full lap. You can use any of the supported languages to write the robot controller. You may use any combination of sensors to accomplish this. You can also use computer vision and/or machine learning methods in your implementation. Please ensure that your code is readable e.g. add comments. 
