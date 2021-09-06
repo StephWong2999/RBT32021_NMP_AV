@@ -1,4 +1,4 @@
-# RBT32021_AV_Webots_Driverless_Simulation_Competition
+# Webots Driverless Simulation New Member Project
 
 ## Background
 
@@ -8,6 +8,8 @@ You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes supp
 * Lidar
 * Camera
 * Inertial Unit Sensors
+
+![adept_pioneer3-at](/adept_pioneer3-at.png)
 
 You will also be given 2 world files each containing a track. Each track consists of cones, where the yellow cones denote the outside of the track and the blue cones denote the inside of the track. 
 
@@ -26,7 +28,6 @@ Once functional, your goal is to implement one of the following extensions. Thes
 * And any other extensions you would like to implement!
 
 ## Resources
-
 Webots Tutorials:
 
 Webots Documentation:
