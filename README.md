@@ -1,10 +1,10 @@
 # Webots Driverless Simulation New Member Project
 
 ## Background
-The system design and code of an Autonomous Vehicle must be validated and tested before being uploaded onto the car. Thus a simulation software such as webots provides the perfect virtual environment to cheaply and safetly test implementations.  
+The system design and code of an Autonomous Vehicle must be validated and tested before being uploaded onto the car. Thus a simulation software such as webots provides the perfect virtual environment to cheaply and safetly test code implementations.  
 
 ## Webots Controller and World Files
-You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes support for 4 motors and 16 sonar sensors(8 forward facing, 8 rear facing). In out world files, we've added the following sensors:
+You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes support for 4 motors and 16 sonar sensors(8 forward facing, 8 rear facing). In our world files, we've added the following sensors:
 
 * Lidar
 * Camera
@@ -12,7 +12,7 @@ You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes supp
 
 ![adept_pioneer3-at](/adept_pioneer3-at.png)
 
-You will also be given 2 world files each containing a track. Each track consists of cones, where the yellow cones denote the outside of the track and the blue cones denote the inside of the track. 
+You will also be given 2 world files each containing a track. Each track consists of cones, where the yellow cones mark the outside of the track and the blue cones mark the inside of the track. 
 
 * NMP_Simple.wbt
 ![nmp_simple](/nmp_simple.png)
