@@ -30,6 +30,8 @@ Once functional, your goal is to implement one of the following extensions. Thes
 * Colour Detection: Use the camera to detect different colours of objects on the path of the track. There are many ways to do this! You can use openCV
 * And any other extensions you would like to implement!
 
+As your submission will be tested against other track designs, try to make your implementation as autonomous as possible and not hardcoded. 
+
 ## Requirements
 To run this project, you need to install Webots(at least version 2021b) and fork this github repository
 

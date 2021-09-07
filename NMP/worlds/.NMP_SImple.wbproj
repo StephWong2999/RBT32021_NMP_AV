@@ -4,7 +4,9 @@ simulationViewPerspectives: 000000ff0000000100000002000001000000051a010000000201
 sceneTreePerspectives: 000000ff0000000100000002000000c0000000fa0100000002010000000200
 maximizedDockId: -1
 centralWidgetVisible: 1
+renderingMode: PLAIN
 orthographicViewHeight: 1
-textFiles: 0 "controllers/NMP_Controller/NMP_Controller.cpp"
+textFiles: 1 "controllers/NMP_Controller/NMP_Controller.cpp" "controllers/NMP_Manual_Controller/NMP_Manual_Controller.cpp"
+globalOptionalRendering: LidarRaysPaths
 consoles: Console:All:All
 renderingDevicePerspectives: Pioneer 3-AT:camera;1;1;0;0
