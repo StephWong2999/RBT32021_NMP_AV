@@ -1,7 +1,7 @@
 # Webots Driverless Simulation New Member Project
 
 ## Background
-
+The system design and code of an Autonomous Vehicle must be validated and tested before being uploaded onto the car. Thus a simulation software such as webots provides the perfect virtual environment to cheaply and safetly test implementations.  
 
 ## Webots Controller and World Files
 You will be given a 4 wheel Adept Pioneer 3-AT Vehicle. This model includes support for 4 motors and 16 sonar sensors(8 forward facing, 8 rear facing). In out world files, we've added the following sensors:
@@ -30,6 +30,9 @@ Once functional, your goal is to implement one of the following extensions. Thes
 * Colour Detection: Use the camera to detect different colours of objects on the path of the track. There are many ways to do this! You can use openCV
 * And any other extensions you would like to implement!
 
+## Requirements
+To run this project, you need to install Webots(at least version 2021b) and fork this github repository
+
 ## Resources
 * [Webots Tutorials](https://cyberbotics.com/doc/guide/tutorials)
 * [Webots Documentation](https://cyberbotics.com/doc/reference/nodes-and-api-functions)
@@ -39,10 +42,13 @@ Once functional, your goal is to implement one of the following extensions. Thes
 * [Motor](https://www.cyberbotics.com/doc/reference/motor)
 * [Camera](https://www.cyberbotics.com/doc/reference/camera)
 * [Lidar](https://www.cyberbotics.com/doc/reference/lidar)
-* [Inertial Unit Sensors ](https://cyberbotics.com/doc/reference/inertialunit)
-
+* [Inertial Unit Sensors](https://cyberbotics.com/doc/reference/inertialunit)
 
 ## How to use the Manual Controller
+A manual controller has also been provided to help with your implementation and extension tasks(e.g. testing dynamics, computer vision, SLAM). The manual controller will enable you to move the Adept Pioneer3-AT using your arrow keys: up(forward), down(backward), left(turn left), right(turn right).
+
+To use the manual controller on webots, find the "Pioneer3at "Pioneer 3-AT"" tab on the left side panel. Under that tab, select "controller" and click the select button. Select "NMP_Manual_Controller"
+
 
 ## Submission
 Fork this git repository. Once you have added all your code, and your project is complete, send us a link to your forked repository. 
